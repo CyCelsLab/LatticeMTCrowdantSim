@@ -1,0 +1,29 @@
+
+
+number-of-monomers: 500
+monomer-step-length: 1
+monomer-size: 0
+sizeX: 200
+sizeY: 200
+grid-spacing: 2
+iterations: 1000
+distribution-pattern: 0
+integration-time: 1e-3
+reaction-dt: 1e-3
+binding-rate: 0
+nucleus-binding-rate: 0
+unbinding-rate: 0
+nucleus-unbinding-rate: 10
+nucleus-size: 2.000000
+number-of-preseeds: 10
+presees-size: 12
+number-of-crowdant-type: 1
+number-of-crowdants: 500
+crowdant-size: 1
+crowdant-step-length: 1
+depol-type: 2
+print-interval: 10
+print-lattice: 0
+print-polymer: 0
+print-monomer-crowdant: 1
+print-log: 1
